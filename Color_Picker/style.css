@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(31, 192, 138);
+}
+button{
+    padding: 30px;
+    border-radius: 3px;
+    border-width: 3px;
+    border-style:dotted;
+    border-color:black;
+    font-size: large;
+    font-family: 'Times New Roman';
+
+}
+#red{
+    background-color: rgb(247, 66, 66);
+}
+#blue{
+    background-color: rgb(53, 106, 211);
+}
+#brown{
+    background-color: brown;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
